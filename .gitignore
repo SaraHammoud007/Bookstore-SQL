@@ -1,0 +1,4 @@
+# ignore sqlite DB if you don't want to commit it
+bookstore.db
+.vscode/
+.DS_Store
