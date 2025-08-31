@@ -1,4 +1,4 @@
-# Bookstore SQL — beginner exercise
+# Bookstore SQL
 
 Run locally:
 1. Install sqlite3
